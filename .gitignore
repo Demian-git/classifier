@@ -1,19 +1,35 @@
 /preprocessing/car/*
+!/preprocessing/car/.gitkeep
 /preprocessing/music/*
+!/preprocessing/music/.gitkeep
 /preprocessing/noise/*
+!/preprocessing/noise/.gitkeep
 /preprocessing/speech/*
+!/preprocessing/speech/.gitkeep
 
 /train/car/*
+!/train/car/.gitkeep
 /train/music/*
+!/train/music/.gitkeep
 /train/noise/*
+!/train/noise/.gitkeep
 /train/speech/*
+!/train/speech/.gitkeep
 
 /eval/car/*
+!/eval/car/.gitkeep
 /eval/music/*
+!/eval/music/.gitkeep
 /eval/noise/*
+!/eval/noise/.gitkeep
 /eval/speech/*
+!/eval/speech/.gitkeep
 
 /unsplited/car/*
+!/unsplited/car/.gitkeep
 /unsplited/music/*
+!/unsplited/music/.gitkeep
 /unsplited/noise/*
+!/unsplited/noise/.gitkeep
 /unsplited/speech/*
+!/unsplited/speech/.gitkeep
